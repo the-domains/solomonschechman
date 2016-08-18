@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[solomonschechman]]></title>
         <description><![CDATA[solomonschechman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/solomonschechman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 02:08:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 02:08:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/solomonschechman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4eab76dc-18d0-431e-90b9-d8d9366b3440.jpg">]]></description>
+            <link>https://thegrid.ai/solomonschechman/f91de673-3e38-4ee1-a85f-64bf928e30bb/index.html</link>
+            <guid isPermaLink="false">f91de673-3e38-4ee1-a85f-64bf928e30bb</guid>
+            <pubDate>Thu, 18 Aug 2016 02:08:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10bd4515-48ea-4b14-9028-a7d109ce0585.jpg">]]></description>
-            <link>undefinedaaba5caf-0c9d-4ea7-99be-b0e006c072ee/index.html</link>
+            <link>https://thegrid.ai/solomonschechman/aaba5caf-0c9d-4ea7-99be-b0e006c072ee/index.html</link>
             <guid isPermaLink="false">aaba5caf-0c9d-4ea7-99be-b0e006c072ee</guid>
             <pubDate>Thu, 18 Aug 2016 02:08:48 GMT</pubDate>
         </item>
