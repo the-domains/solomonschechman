@@ -1,0 +1,14 @@
+layout_spectrum: 0.8112412279006094
+typography_spectrum: 0.6973090574610978
+color:
+  brandStrength: 0.4726328789256513
+  lightness: 0.6337895132601261
+  saturation: 0.3468226015102118
+  rhythmicContrast: 0.2851735760923475
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: solomonschechman
