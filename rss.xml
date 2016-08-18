@@ -4,7 +4,7 @@
         <description><![CDATA[solomonschechman]]></description>
         <link>https://thegrid.ai/solomonschechman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 02:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 02:16:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/solomonschechman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/solomonschechman/5c614655-4bbd-4bba-a9da-7e3724def307/index.html</link>
             <guid isPermaLink="false">5c614655-4bbd-4bba-a9da-7e3724def307</guid>
             <pubDate>Thu, 18 Aug 2016 02:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e89c00bd-5d60-4c66-a23a-78e45d66c95c.jpg">]]></description>
-            <link>https://thegrid.ai/solomonschechman/038d0737-f162-40f4-ba97-9eb792335f3e/index.html</link>
-            <guid isPermaLink="false">038d0737-f162-40f4-ba97-9eb792335f3e</guid>
-            <pubDate>Thu, 18 Aug 2016 02:08:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
